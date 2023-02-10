@@ -1,1 +1,2 @@
-# Learning_Python
+# My Learning Progress in Python
+This is simply a place to keep track of my files while I progress learning Python, and specifically as it pertains to data science and visualizations along the way. It will only be the general tips and tricks that will help me on the actual projects that I should do (hopefully). It will be more like a cheat sheet for me to go back to if I forget something. I understand there are a ton of those cheat sheets out there but this is not really a cheat sheet for everyone, but rather a digital reference to review when needed.
